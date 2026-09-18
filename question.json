@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "naruto_001",
+    "anime": "Naruto",
+    "difficulty": "easy",
+    "translations": {
+      "fr": {
+        "question": "Comment s'appelle le démon renard à neuf queues scellé en Naruto ?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "en": {
+        "question": "What is the name of the Nine-Tailed Fox sealed inside Naruto?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "es": {
+        "question": "¿Cómo se llama el Zorro de Nueve Colas sellado dentro de Naruto?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "pt": {
+        "question": "Qual é o nome da Raposa de Nove Caudas selada dentro de Naruto?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "it": {
+        "question": "Come si chiama la Volpe a Nove Code sigillata dentro Naruto?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "de": {
+        "question": "Wie heißt der Neunschwänzige Fuchs, der in Naruto versiegelt ist?",
+        "options": ["Kurama", "Shukaku", "Gyuki", "Matatabi"],
+        "answer": 0
+      },
+      "ja": {
+        "question": "ナルトに封印されている九尾の名前は何ですか？",
+        "options": ["九喇嘛", "守鶴", "牛鬼", "又旅"],
+        "answer": 0
+      },
+      "ko": {
+        "question": "나루토 안에 봉인된 구미의 이름은 무엇인가요?",
+        "options": ["쿠라마", "슈카쿠", "규키", "마타타비"],
+        "answer": 0
+      }
+    }
+  },
+
+  {
+    "id": "naruto_002",
+    "anime": "Naruto",
+    "difficulty": "easy",
+    "translations": {
+      "fr": {
+        "question": "Comment s'appelle le village natal de Naruto ?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "en": {
+        "question": "What is Naruto's home village called?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "es": {
+        "question": "¿Cómo se llama la aldea natal de Naruto?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "pt": {
+        "question": "Como se chama a aldeia natal de Naruto?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "it": {
+        "question": "Come si chiama il villaggio natale di Naruto?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "de": {
+        "question": "Wie heißt Narutos Heimatdorf?",
+        "options": ["Konoha", "Suna", "Kiri", "Iwa"],
+        "answer": 0
+      },
+      "ja": {
+        "question": "ナルトの故郷の里の名前は何ですか？",
+        "options": ["木ノ葉", "砂", "霧", "岩"],
+        "answer": 0
+      },
+      "ko": {
+        "question": "나루토의 고향 마을 이름은 무엇인가요?",
+        "options": ["코노하", "수나", "키리", "이와"],
+        "answer": 0
+      }
+    }
+  },
+
+  {
+    "id": "naruto_003",
+    "anime": "Naruto",
+    "difficulty": "easy",
+    "translations": {
+      "fr": {
+        "question": "Quel est le nom de famille de Sasuke ?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "en": {
+        "question": "What is Sasuke's family name?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "es": {
+        "question": "¿Cuál es el apellido de Sasuke?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "pt": {
+        "question": "Qual é o sobrenome de Sasuke?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "it": {
+        "question": "Qual è il cognome di Sasuke?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "de": {
+        "question": "Wie lautet Sasukes Familienname?",
+        "options": ["Uchiha", "Hyuga", "Nara", "Hatake"],
+        "answer": 0
+      },
+      "ja": {
+        "question": "サスケの名字は何ですか？",
+        "options": ["うちは", "日向", "奈良", "はたけ"],
+        "answer": 0
+      },
+      "ko": {
+        "question": "사스케의 성은 무엇인가요?",
+        "options": ["우치하", "휴우가", "나라", "하타케"],
+        "answer": 0
+      }
+    }
+  },
+
+  {
+    "id": "naruto_004",
+    "anime": "Naruto",
+    "difficulty": "easy",
+    "translations": {
+      "fr": {
+        "question": "Quel est le nom de famille de Sakura ?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "en": {
+        "question": "What is Sakura's family name?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "es": {
+        "question": "¿Cuál es el apellido de Sakura?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "pt": {
+        "question": "Qual é o sobrenome de Sakura?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "it": {
+        "question": "Qual è il cognome di Sakura?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "de": {
+        "question": "Wie lautet Sakuras Familienname?",
+        "options": ["Haruno", "Uzumaki", "Yamanaka", "Hyuga"],
+        "answer": 0
+      },
+      "ja": {
+        "question": "サクラの名字は何ですか？",
+        "options": ["春野", "うずまき", "山中", "日向"],
+        "answer": 0
+      },
+      "ko": {
+        "question": "사쿠라의 성은 무엇인가요?",
+        "options": ["하루노", "우즈마키", "야마나카", "휴우가"],
+        "answer": 0
+      }
+    }
+  },
+
+  {
+    "id": "naruto_005",
+    "anime": "Naruto",
+    "difficulty": "easy",
+    "translations": {
+      "fr": {
+        "question": "Qui est le professeur de l'équipe 7 ?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "en": {
+        "question": "Who is Team 7's teacher?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "es": {
+        "question": "¿Quién es el maestro del Equipo 7?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "pt": {
+        "question": "Quem é o professor da Equipe 7?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "it": {
+        "question": "Chi è il maestro del Team 7?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "de": {
+        "question": "Wer ist der Lehrer von Team 7?",
+        "options": ["Kakashi Hatake", "Might Guy", "Jiraiya", "Iruka Umino"],
+        "answer": 0
+      },
+      "ja": {
+        "question": "第7班の担当上忍は誰ですか？",
+        "options": ["はたけカカシ", "マイト・ガイ", "自来也", "うみのイルカ"],
+        "answer": 0
+      },
+      "ko": {
+        "question": "7반의 담당 선생님은 누구인가요?",
+        "options": ["하타케 카카시", "마이트 가이", "지라이야", "우미노 이루카"],
+        "answer": 0
+      }
+    }
+  }
+]
+,
+
+{
+  "id": "naruto_006",
+  "anime": "Naruto",
+  "difficulty": "easy",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom du frère aîné de Sasuke ?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is Sasuke's older brother's name?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama el hermano mayor de Sasuke?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome do irmão mais velho de Sasuke?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama il fratello maggiore di Sasuke?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt Sasukes älterer Bruder?",
+      "options": ["Itachi Uchiha", "Shisui Uchiha", "Madara Uchiha", "Obito Uchiha"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "サスケの兄の名前は何ですか？",
+      "options": ["うちはイタチ", "うちはシスイ", "うちはマダラ", "うちはオビト"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "사스케의 형 이름은 무엇인가요?",
+      "options": ["우치하 이타치", "우치하 시스이", "우치하 마다라", "우치하 오비토"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_007",
+  "anime": "Naruto",
+  "difficulty": "easy",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom du professeur de Naruto à l'Académie ?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is Naruto's teacher at the Academy called?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama el maestro de Naruto en la Academia?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Como se chama o professor de Naruto na Academia?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama l'insegnante di Naruto all'Accademia?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt Narutos Lehrer an der Akademie?",
+      "options": ["Iruka Umino", "Kakashi Hatake", "Jiraiya", "Asuma Sarutobi"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "ナルトのアカデミー時代の先生は誰ですか？",
+      "options": ["うみのイルカ", "はたけカカシ", "自来也", "猿飛アスマ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나루토의 아카데미 시절 선생님은 누구인가요?",
+      "options": ["우미노 이루카", "하타케 카카시", "지라이야", "사루토비 아스마"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_008",
+  "anime": "Naruto",
+  "difficulty": "easy",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom du clan de Hinata ?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is Hinata's clan called?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama el clan de Hinata?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome do clã de Hinata?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama il clan di Hinata?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt Hinatas Clan?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "ヒナタの所属する一族は何ですか？",
+      "options": ["日向", "うちは", "奈良", "秋道"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "히나타가 속한 가문은 무엇인가요?",
+      "options": ["휴우가", "우치하", "나라", "아키미치"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_009",
+  "anime": "Naruto",
+  "difficulty": "easy",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom de la technique emblématique de Naruto créée par Jiraiya ?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is Naruto's iconic technique taught by Jiraiya?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cuál es la técnica característica de Naruto que aprendió de Jiraiya?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é a técnica característica de Naruto que ele aprendeu com Jiraiya?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Qual è la tecnica caratteristica di Naruto che ha imparato da Jiraiya?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt Narutos berühmte Technik, die er von Jiraiya lernte?",
+      "options": ["Rasengan", "Chidori", "Amaterasu", "Katon"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "ナルトが自来也から学んだ代表的な技は何ですか？",
+      "options": ["螺旋丸", "千鳥", "天照", "火遁"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나루토가 지라이야에게 배운 대표적인 기술은 무엇인가요?",
+      "options": ["나선환", "치도리", "아마테라스", "화둔"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_010",
+  "anime": "Naruto",
+  "difficulty": "easy",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom de la technique de Sasuke qui est comparable au Rasengan ?",
+      "options": ["Chidori", "Rasengan", "Kage Bunshin", "Byakugan"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What technique of Sasuke is comparable to the Rasengan?",
+      "options": ["Chidori", "Rasengan", "Shadow Clone", "Byakugan"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Qué técnica de Sasuke es comparable al Rasengan?",
+      "options": ["Chidori", "Rasengan", "Clones de sombra", "Byakugan"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual técnica de Sasuke é comparável ao Rasengan?",
+      "options": ["Chidori", "Rasengan", "Clones das Sombras", "Byakugan"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Quale tecnica di Sasuke è paragonabile al Rasengan?",
+      "options": ["Chidori", "Rasengan", "Cloni d'Ombra", "Byakugan"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Welche Technik von Sasuke ist mit dem Rasengan vergleichbar?",
+      "options": ["Chidori", "Rasengan", "Schattenklone", "Byakugan"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "サスケの技で螺旋丸に匹敵するものは何ですか？",
+      "options": ["千鳥", "螺旋丸", "影分身", "白眼"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "사스케의 기술 중 나선환에 필적하는 기술은 무엇인가요?",
+      "options": ["치도리", "나선환", "그림자 분신", "백안"],
+      "answer": 0
+    }
+  }
+}
+
+,
+
+{
+  "id": "naruto_011",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Qui est le Premier Hokage de Konoha ?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who is the First Hokage of Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién es el Primer Hokage de Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem é o Primeiro Hokage de Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi è il Primo Hokage di Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer ist der Erste Hokage von Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Minato Namikaze"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "木ノ葉隠れの里の初代火影は誰ですか？",
+      "options": ["千手柱間", "千手扉間", "猿飛ヒルゼン", "波風ミナト"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나뭇잎 마을의 초대 호카게는 누구인가요?",
+      "options": ["센쥬 하시라마", "센쥬 토비라마", "사루토비 히루젠", "나미카제 미나토"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_012",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Qui est le Deuxième Hokage de Konoha ?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who is the Second Hokage of Konoha?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién es el Segundo Hokage de Konoha?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem é o Segundo Hokage de Konoha?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi è il Secondo Hokage di Konoha?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer ist der Zweite Hokage von Konoha?",
+      "options": ["Tobirama Senju", "Hashirama Senju", "Hiruzen Sarutobi", "Tsunade"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "木ノ葉隠れの里の二代目火影は誰ですか？",
+      "options": ["千手扉間", "千手柱間", "猿飛ヒルゼン", "綱手"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나뭇잎 마을의 2대 호카게는 누구인가요?",
+      "options": ["센쥬 토비라마", "센쥬 하시라마", "사루토비 히루젠", "츠나데"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_013",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Qui est le Cinquième Hokage de Konoha ?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who is the Fifth Hokage of Konoha?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién es la Quinta Hokage de Konoha?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem é a Quinta Hokage de Konoha?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi è il Quinto Hokage di Konoha?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer ist der Fünfte Hokage von Konoha?",
+      "options": ["Tsunade", "Tsunade Senju", "Mei Terumi", "Kushina Uzumaki"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "木ノ葉隠れの里の五代目火影は誰ですか？",
+      "options": ["綱手", "千手綱手", "照美メイ", "うずまきクシナ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나뭇잎 마을의 5대 호카게는 누구인가요?",
+      "options": ["츠나데", "센쥬 츠나데", "테루미 메이", "우즈마키 쿠시나"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_014",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Quel membre de l'équipe de Konoha est célèbre pour utiliser les Huit Portes ?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Which Konoha shinobi is famous for using the Eight Gates?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Qué shinobi de Konoha es famoso por usar las Ocho Puertas?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual shinobi de Konoha é famoso por usar os Oito Portões?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Quale shinobi di Konoha è famoso per usare le Otto Porte?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Welcher Shinobi aus Konoha ist für die Nutzung der Acht Tore bekannt?",
+      "options": ["Might Guy", "Kakashi Hatake", "Asuma Sarutobi", "Kurenai Yuhi"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "八門遁甲で有名な木ノ葉の忍は誰ですか？",
+      "options": ["マイト・ガイ", "はたけカカシ", "猿飛アスマ", "夕日紅"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "팔문둔갑으로 유명한 나뭇잎 마을의 닌자는 누구인가요?",
+      "options": ["마이트 가이", "하타케 카카시", "사루토비 아스마", "유히 쿠레나이"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_015",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Quel membre de l'Akatsuki utilise l'épée Samehada ?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Which Akatsuki member uses the sword Samehada?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Qué miembro de Akatsuki usa la espada Samehada?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual membro da Akatsuki usa a espada Samehada?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Quale membro dell'Akatsuki usa la spada Samehada?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Welches Akatsuki-Mitglied benutzt das Schwert Samehada?",
+      "options": ["Kisame Hoshigaki", "Itachi Uchiha", "Deidara", "Sasori"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "暁のメンバーで鮫肌を使うのは誰ですか？",
+      "options": ["干柿鬼鮫", "うちはイタチ", "デイダラ", "サソリ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "아카츠키 멤버 중 사메하다를 사용하는 사람은 누구인가요?",
+      "options": ["호시가키 키사메", "우치하 이타치", "데이다라", "사소리"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_016",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Qui est le jinchuriki d'Ichibi, le démon à une queue ?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who is the jinchuriki of Ichibi, the One-Tail?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién es el jinchuriki de Ichibi, el Una Cola?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem é o jinchuriki de Ichibi, o Uma-Cauda?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi è il jinchuriki di Ichibi, l'Una Coda?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer ist der Jinchuriki von Ichibi, dem Einschwänzigen?",
+      "options": ["Gaara", "Killer B", "Naruto", "Yugito Nii"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "一尾・守鶴の人柱力は誰ですか？",
+      "options": ["我愛羅", "キラービー", "うずまきナルト", "二位ユギト"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "일미 수학의 인주력은 누구인가요?",
+      "options": ["가아라", "킬러 비", "우즈마키 나루토", "유기토 니이"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_017",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Quel clan est connu pour posséder le Byakugan ?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Which clan is known for possessing the Byakugan?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Qué clan es conocido por poseer el Byakugan?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual clã é conhecido por possuir o Byakugan?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Quale clan è noto per possedere il Byakugan?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Welcher Clan ist für den Besitz des Byakugan bekannt?",
+      "options": ["Hyuga", "Uchiha", "Senju", "Uzumaki"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "白眼を持つことで知られる一族はどれですか？",
+      "options": ["日向一族", "うちは一族", "千手一族", "うずまき一族"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "백안을 가진 것으로 유명한 가문은 어디인가요?",
+      "options": ["휴우가 가문", "우치하 가문", "센쥬 가문", "우즈마키 가문"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_018",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom du clan de Shikamaru ?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is Shikamaru's clan called?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama el clan de Shikamaru?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome do clã de Shikamaru?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama il clan di Shikamaru?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt Shikamarus Clan?",
+      "options": ["Nara", "Akimichi", "Yamanaka", "Aburame"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "シカマルの所属する一族は何ですか？",
+      "options": ["奈良一族", "秋道一族", "山中一族", "油女一族"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "시카마루가 속한 가문은 어디인가요?",
+      "options": ["나라 가문", "아키미치 가문", "야마나카 가문", "아부라메 가문"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_019",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Quel élément de chakra Sasuke utilise-t-il principalement pour le Chidori ?",
+      "options": ["Foudre", "Feu", "Vent", "Eau"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Which chakra nature does Sasuke primarily use for Chidori?",
+      "options": ["Lightning", "Fire", "Wind", "Water"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Qué naturaleza de chakra usa principalmente Sasuke para el Chidori?",
+      "options": ["Rayo", "Fuego", "Viento", "Agua"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual natureza de chakra Sasuke usa principalmente no Chidori?",
+      "options": ["Relâmpago", "Fogo", "Vento", "Água"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Quale natura del chakra usa principalmente Sasuke per il Chidori?",
+      "options": ["Fulmine", "Fuoco", "Vento", "Acqua"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Welche Chakra-Natur verwendet Sasuke hauptsächlich für Chidori?",
+      "options": ["Blitz", "Feuer", "Wind", "Wasser"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "サスケが千鳥で主に使うチャクラの性質は何ですか？",
+      "options": ["雷", "火", "風", "水"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "사스케가 치도리에 주로 사용하는 차크라 성질은 무엇인가요?",
+      "options": ["번개", "불", "바람", "물"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_020",
+  "anime": "Naruto",
+  "difficulty": "medium",
+  "translations": {
+    "fr": {
+      "question": "Qui a enseigné le Rasengan à Naruto ?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who taught Naruto the Rasengan?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién le enseñó el Rasengan a Naruto?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem ensinou o Rasengan a Naruto?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi ha insegnato il Rasengan a Naruto?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer hat Naruto das Rasengan beigebracht?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Iruka Umino", "Might Guy"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "ナルトに螺旋丸を教えたのは誰ですか？",
+      "options": ["自来也", "はたけカカシ", "うみのイルカ", "マイト・ガイ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "나루토에게 나선환을 가르쳐 준 사람은 누구인가요?",
+      "options": ["지라이야", "하타케 카카시", "우미노 이루카", "마이트 가이"],
+      "answer": 0
+    }
+  }
+}
+
+,
+
+{
+  "id": "naruto_021",
+  "anime": "Naruto",
+  "difficulty": "hard",
+  "translations": {
+    "fr": {
+      "question": "Qui est considéré comme le fondateur historique du village de Konoha avec Madara Uchiha ?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "en": {
+      "question": "Who is historically considered the founder of Konoha alongside Madara Uchiha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Quién es considerado históricamente el fundador de Konoha junto a Madara Uchiha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Quem é considerado historicamente o fundador de Konoha junto com Madara Uchiha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Chi è considerato storicamente il fondatore di Konoha insieme a Madara Uchiha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wer gilt zusammen mit Madara Uchiha als historischer Gründer von Konoha?",
+      "options": ["Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi", "Hagoromo Otsutsuki"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "うちはマダラとともに木ノ葉隠れの里を創設した人物は誰ですか？",
+      "options": ["千手柱間", "千手扉間", "猿飛ヒルゼン", "大筒木ハゴロモ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "우치하 마다라와 함께 나뭇잎 마을을 세운 인물은 누구인가요?",
+      "options": ["센쥬 하시라마", "센쥬 토비라마", "사루토비 히루젠", "오오츠츠키 하고로모"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_022",
+  "anime": "Naruto",
+  "difficulty": "hard",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom du Sage des Six Chemins ?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is the name of the Sage of Six Paths?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cuál es el nombre del Sabio de los Seis Caminos?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome do Sábio dos Seis Caminhos?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Qual è il nome del Saggio delle Sei Vie?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt der Weise der Sechs Pfade?",
+      "options": ["Hagoromo Otsutsuki", "Hamura Otsutsuki", "Indra Otsutsuki", "Ashura Otsutsuki"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "六道仙人の名前は何ですか？",
+      "options": ["大筒木ハゴロモ", "大筒木ハムラ", "大筒木インドラ", "大筒木アシュラ"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "육도선인의 이름은 무엇인가요?",
+      "options": ["오오츠츠키 하고로모", "오오츠츠키 하무라", "오오츠츠키 인드라", "오오츠츠키 아수라"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_023",
+  "anime": "Naruto",
+  "difficulty": "hard",
+  "translations": {
+    "fr": {
+      "question": "Comment s'appelle la technique interdite permettant de réanimer les morts ?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Kuchiyose no Jutsu"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is the forbidden technique used to reanimate the dead called?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Summoning Jutsu"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama la técnica prohibida que permite reanimar a los muertos?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Jutsu de Invocación"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Como se chama a técnica proibida usada para reanimar os mortos?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Jutsu de Invocação"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama la tecnica proibita usata per rianimare i morti?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Tecnica di Evocazione"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt die verbotene Technik, mit der Tote wiederbelebt werden?",
+      "options": ["Edo Tensei", "Izanagi", "Izanami", "Beschwörungstechnik"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "死者を蘇生させる禁術の名前は何ですか？",
+      "options": ["穢土転生", "イザナギ", "イザナミ", "口寄せの術"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "죽은 자를 되살리는 금술의 이름은 무엇인가요?",
+      "options": ["예토전생", "이자나기", "이자나미", "소환술"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_024",
+  "anime": "Naruto",
+  "difficulty": "hard",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom de la technique spatio-temporelle utilisée par Obito et Kakashi grâce à leur Mangekyo Sharingan ?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is the space-time technique used by Obito and Kakashi through their Mangekyo Sharingan?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama la técnica espacio-temporal utilizada por Obito y Kakashi mediante su Mangekyo Sharingan?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome da técnica espaço-temporal usada por Obito e Kakashi através do Mangekyo Sharingan?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Qual è il nome della tecnica spazio-temporale usata da Obito e Kakashi tramite il loro Mangekyo Sharingan?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt die Raum-Zeit-Technik, die Obito und Kakashi mit ihrem Mangekyo Sharingan verwenden?",
+      "options": ["Kamui", "Amaterasu", "Tsukuyomi", "Susanoo"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "オビトとカカシが万華鏡写輪眼で使用する時空間忍術は何ですか？",
+      "options": ["神威", "天照", "月読", "須佐能乎"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "오비토와 카카시가 만화경 사륜안으로 사용하는 시공간 기술은 무엇인가요?",
+      "options": ["카무이", "아마테라스", "츠쿠요미", "스사노오"],
+      "answer": 0
+    }
+  }
+},
+{
+  "id": "naruto_025",
+  "anime": "Naruto",
+  "difficulty": "hard",
+  "translations": {
+    "fr": {
+      "question": "Quel est le nom de la technique créée par Tobirama Senju permettant de réanimer les morts ?",
+      "options": ["Edo Tensei", "Rasengan", "Hiraishin", "Kage Bunshin"],
+      "answer": 0
+    },
+    "en": {
+      "question": "What is the name of the technique created by Tobirama Senju that reanimates the dead?",
+      "options": ["Edo Tensei", "Rasengan", "Flying Raijin", "Shadow Clone"],
+      "answer": 0
+    },
+    "es": {
+      "question": "¿Cómo se llama la técnica creada por Tobirama Senju que permite reanimar a los muertos?",
+      "options": ["Edo Tensei", "Rasengan", "Hiraishin", "Clon de Sombra"],
+      "answer": 0
+    },
+    "pt": {
+      "question": "Qual é o nome da técnica criada por Tobirama Senju que permite reanimar os mortos?",
+      "options": ["Edo Tensei", "Rasengan", "Hiraishin", "Clone das Sombras"],
+      "answer": 0
+    },
+    "it": {
+      "question": "Come si chiama la tecnica creata da Tobirama Senju che permette di rianimare i morti?",
+      "options": ["Edo Tensei", "Rasengan", "Hiraishin", "Cloni d'Ombra"],
+      "answer": 0
+    },
+    "de": {
+      "question": "Wie heißt die von Tobirama Senju entwickelte Technik, mit der Tote wiederbelebt werden?",
+      "options": ["Edo Tensei", "Rasengan", "Hiraishin", "Schattenklon"],
+      "answer": 0
+    },
+    "ja": {
+      "question": "千手扉間が開発した死者を蘇生させる術の名前は何ですか？",
+      "options": ["穢土転生", "螺旋丸", "飛雷神の術", "影分身の術"],
+      "answer": 0
+    },
+    "ko": {
+      "question": "센쥬 토비라마가 개발한 죽은 자를 되살리는 술법은 무엇인가요?",
+      "options": ["예토전생", "나선환", "비뢰신의 술", "그림자 분신술"],
+      "answer": 0
+    }
+  }
+}
